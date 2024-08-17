@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="environmentGroups">
+            <list>
+              <environmentGroupState>
+                <option name="environments">
+                  <list>
+                    <environmentState>
+                      <option name="name" value="Main" />
+                    </environmentState>
+                  </list>
+                </option>
+                <option name="name" value="Default" />
+              </environmentGroupState>
+            </list>
+          </option>
+          <option name="folders">
+            <list>
+              <folderState>
+                <option name="auth">
+                  <authState>
+                    <option name="bearer">
+                      <lg>
+                        <option name="token" value="{{token}}" />
+                      </lg>
+                    </option>
+                    <option name="type" value="BEARER" />
+                  </authState>
+                </option>
+                <option name="id" value="b418a4e0-2542-4b60-b8d3-82eda5645dcc" />
+                <option name="name" value="0: Users" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;username&quot;: &quot;admin&quot;,&#10;  &quot;password&quot;: &quot;password&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="58d0e223-acbf-43f1-b092-e52d813e16bc" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Login" />
+                      <option name="sortWeight" value="1000000" />
+                      <option name="testScript" value="jc.test(&quot;Set Token&quot;,function(){&#10;    jc.globals.set(&quot;token&quot;, jc.response.json().userToken);&#10;});" />
+                      <option name="url" value="{{baseUrl}}/users/login" />
+                    </requestState>
+                    <requestState>
+                      <option name="id" value="99d4b636-94e3-4483-9371-479a19228695" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="List" />
+                      <option name="sortWeight" value="2000000" />
+                      <option name="url" value="{{baseUrl}}/users/list" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="1000000" />
+              </folderState>
+              <folderState>
+                <option name="auth">
+                  <authState>
+                    <option name="bearer">
+                      <lg>
+                        <option name="token" value="{{token}}" />
+                      </lg>
+                    </option>
+                    <option name="type" value="BEARER" />
+                  </authState>
+                </option>
+                <option name="id" value="c67b684f-c2ea-4aa6-9156-36993e8af0f0" />
+                <option name="name" value="1: Tags" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="id" value="0de4eaf7-8e41-438c-a0e9-eff3fb92753c" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="List" />
+                      <option name="sortWeight" value="1000000" />
+                      <option name="url" value="{{baseUrl}}/tags/list" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="2000000" />
+              </folderState>
+              <folderState>
+                <option name="id" value="de251497-97c9-4fbe-b932-16b635d313f3" />
+                <option name="name" value="2: Products" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="id" value="74eae9ab-15fd-46cc-a87d-14983ec5ab30" />
+                      <option name="method" value="DELETE" />
+                      <option name="name" value="Delete" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="id" />
+                            <option name="value" value="11" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="sortWeight" value="1000000" />
+                      <option name="url" value="{{baseUrl}}/products/delete?id=11" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;id&quot;: 11,&#10;  &quot;name&quot;: &quot;Test Product&quot;,&#10;  &quot;description&quot;: &quot;Created vie postman&quot;,&#10;  &quot;price&quot;: 1599.99,&#10;  &quot;primaryImage&quot;: &quot;No Image&quot;,&#10;  &quot;images&quot;: [&#10;    &quot;no Image 2&quot;&#10;  ],&#10;  &quot;tags&quot;: [&#10;    &quot;FAKE&quot;&#10;  ]&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="07073aee-6298-4252-b1a5-033933c9e578" />
+                      <option name="method" value="PATCH" />
+                      <option name="name" value="Update" />
+                      <option name="sortWeight" value="2000000" />
+                      <option name="url" value="{{baseUrl}}/products/update" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Test Product&quot;,&#10;  &quot;description&quot;: &quot;Created vie postman&quot;,&#10;  &quot;price&quot;: 1299.99,&#10;  &quot;primaryImage&quot;: &quot;No Image&quot;,&#10;  &quot;images&quot;: [&#10;    &quot;no Image 2&quot;&#10;  ],&#10;  &quot;tags&quot;: [&#10;    &quot;FAKE&quot;&#10;  ]&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="6f480f09-d77d-4b7e-8d0a-9c2eb281bef3" />
+                      <option name="method" value="PUT" />
+                      <option name="name" value="Create" />
+                      <option name="sortWeight" value="3000000" />
+                      <option name="url" value="{{baseUrl}}/products/create" />
+                    </requestState>
+                    <requestState>
+                      <option name="id" value="b664cf3f-b1f8-46e1-bed9-76d4314be8c7" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Single" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="id" />
+                            <option name="value" value="4" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="sortWeight" value="4000000" />
+                      <option name="url" value="{{baseUrl}}/products/single?id=4" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;page&quot;: 1,&#10;  &quot;pageSize&quot;: 16,&#10;  &quot;tags&quot;: [&#10;  ],&#10;  &quot;search&quot;: &quot;&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="0fb80a1f-06e2-4786-87ba-95c890fdc832" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="List (All)" />
+                      <option name="sortWeight" value="5000000" />
+                      <option name="url" value="{{baseUrl}}/products/list" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;Tags&quot;:[&quot;Industrial Power Tools&quot;,&quot;Drills&quot;]&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="ad3fac01-5343-4bac-b8b5-61ce9d3d0247" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="List (Tags)" />
+                      <option name="sortWeight" value="6000000" />
+                      <option name="url" value="{{baseUrl}}/products/list" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;PageSize&quot;:1,&#10;  &quot;Page&quot;:5&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="e56ebf54-bb5e-4bea-a7d2-b07f6b2e90ba" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="List (Search)" />
+                      <option name="sortWeight" value="7000000" />
+                      <option name="url" value="{{baseUrl}}/products/list" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;Search&quot;:&quot;Product 3&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="0ef7eba4-a4a2-4c21-98ff-3f859289d17d" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="List (Paging)" />
+                      <option name="sortWeight" value="8000000" />
+                      <option name="url" value="{{baseUrl}}/products/list" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="27700c42-f3d9-48fc-ac62-7c1ca3aef90b" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="List (Default)" />
+                      <option name="sortWeight" value="9000000" />
+                      <option name="url" value="{{baseUrl}}/products/list" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="6e120d6b-4e1f-4356-9ca4-28ba75cfcae9" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Random" />
+                      <option name="sortWeight" value="10000000" />
+                      <option name="url" value="{{baseUrl}}/products/list/random" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="3000000" />
+              </folderState>
+              <folderState>
+                <option name="auth">
+                  <authState>
+                    <option name="bearer">
+                      <lg>
+                        <option name="token" value="{{token}}" />
+                      </lg>
+                    </option>
+                    <option name="type" value="BEARER" />
+                  </authState>
+                </option>
+                <option name="id" value="e3b21e97-13b6-4dfa-8330-4126e949cd6a" />
+                <option name="name" value="3: Purchase" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="id" value="b60cb9f9-ec3a-413d-a6cd-5e5e4b05a98d" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="List" />
+                      <option name="sortWeight" value="1000000" />
+                      <option name="url" value="{{baseUrl}}/purchase/list" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;productIds&quot;: [&#10;    1,2,3&#10;  ]&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="3980c204-7858-4f8d-8ba2-445187bb366b" />
+                      <option name="method" value="PUT" />
+                      <option name="name" value="Create" />
+                      <option name="sortWeight" value="2000000" />
+                      <option name="url" value="{{baseUrl}}/purchase/create" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="4000000" />
+              </folderState>
+            </list>
+          </option>
+          <option name="id" value="f81684d2-f432-4409-96e7-402cadd1d509" />
+          <option name="name" value="JetClient" />
+          <option name="selectedEnvironmentIds">
+            <map>
+              <entry key="default" value="main" />
+            </map>
+          </option>
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="autoSync" value="true" />
+              <option name="folderPath" value="E:\Hackathon 17 August\StoreService\.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+          <option name="variables">
+            <variablesState>
+              <option name="json" value="{&#10;  &quot;globals&quot;:{&#10;    &quot;baseUrl&quot;: &quot;http://localhost:5283/&quot;&#10;  } &#10;}" />
+            </variablesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="041425b1-0054-4972-9b65-0625a0a815ce" />
+    <option name="version" value="3" />
+  </component>
+</project>

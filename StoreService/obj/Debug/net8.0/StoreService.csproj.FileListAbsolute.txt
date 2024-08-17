@@ -1,0 +1,88 @@
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/appsettings.Development.json
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/appsettings.json
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/StoreService.exe
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/StoreService.deps.json
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/StoreService.runtimeconfig.json
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/StoreService.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/StoreService.pdb
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.OpenApi.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/StoreService.csproj.AssemblyReference.cache
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/StoreService.GeneratedMSBuildEditorConfig.editorconfig
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/StoreService.AssemblyInfoInputs.cache
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/StoreService.AssemblyInfo.cs
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/StoreService.csproj.CoreCompileInputs.cache
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/StoreService.MvcApplicationPartsAssemblyInfo.cs
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/StoreService.MvcApplicationPartsAssemblyInfo.cache
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/staticwebassets.build.json
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/staticwebassets.development.json
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/staticwebassets/msbuild.StoreService.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/staticwebassets/msbuild.build.StoreService.props
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StoreService.props
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StoreService.props
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/staticwebassets.pack.json
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/scopedcss/bundle/StoreService.styles.css
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/StoreSer.C176D72D.Up2Date
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/StoreService.dll
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/refint/StoreService.dll
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/StoreService.pdb
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/StoreService.genruntimeconfig.cache
+E:/Hackathon 17 August/StoreService/StoreService/obj/Debug/net8.0/ref/StoreService.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+E:/Hackathon 17 August/StoreService/StoreService/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/appsettings.Development.json
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/appsettings.json
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/StoreService
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/StoreService.deps.json
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/StoreService.runtimeconfig.json
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/StoreService.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/StoreService.pdb
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/StoreService.csproj.AssemblyReference.cache
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/StoreService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/StoreService.AssemblyInfoInputs.cache
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/StoreService.AssemblyInfo.cs
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/StoreService.csproj.CoreCompileInputs.cache
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/StoreService.MvcApplicationPartsAssemblyInfo.cs
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/StoreService.MvcApplicationPartsAssemblyInfo.cache
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/staticwebassets.build.json
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/staticwebassets.development.json
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/staticwebassets/msbuild.StoreService.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/staticwebassets/msbuild.build.StoreService.props
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StoreService.props
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StoreService.props
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/scopedcss/bundle/StoreService.styles.css
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/StoreService.csproj.CopyComplete
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/StoreService.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/refint/StoreService.dll
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/StoreService.pdb
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/StoreService.genruntimeconfig.cache
+/Users/edwardduplessis/Downloads/FrontednShowdownHackathonBackend-main/StoreService/obj/Debug/net8.0/ref/StoreService.dll
